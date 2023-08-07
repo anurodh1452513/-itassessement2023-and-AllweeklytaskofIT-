@@ -1,0 +1,127 @@
+body {
+    background-color: #e9e9f0;
+}
+
+.table {
+    width: 635px;
+    height: 410px;
+    border: 4px solid black;
+    padding: 20px;
+    background-color: rgb(245, 245, 171);
+    position: absolute;
+    left: 375px;
+    top: 30px;
+}   
+
+#container {
+    width: 1300px;
+    min-height: 540px;
+    background-color: rgb(245, 245, 151);
+    border: 3px solid #918383;
+    border-radius: 0px;
+    margin: auto;
+}
+
+ul {
+    list-style-type: decimal;
+}
+
+ol {
+    list-style-type: disc;
+}
+
+.myheading {
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 5px;
+    margin-bottom: 40px;
+}
+
+/* Positioning for the cells */
+div.white1 {
+    width: 221px;
+    height: 80px;
+    background-color: rgb(245, 245, 245);
+    position: relative;
+    left: 0;
+    top: 0;
+    border: 1px solid black;
+    border-bottom: 2px solid rgb(145, 144, 144);
+    padding:0px;
+}
+
+div.white2 {
+    width: 200px;
+    height: 80px;
+    background-color: rgb(245, 245, 245);
+    position: relative;
+    left: 226px;
+    top: -83px;
+    border: 1px solid black;
+    border-bottom: 2px solid rgb(145, 144, 144);
+    padding:0px;
+}
+
+div.white3 {
+    width: 200px;
+    height: 80px;
+    background-color: rgb(245, 245, 245);
+    position: relative;
+    left: 431px;
+    top: -166px;
+    border: 1px solid black;
+    border-bottom: 2px solid rgb(145, 144, 144);
+    padding:0px;
+}
+
+div.blue1 {
+    width: 200px;
+    height: 300px;
+    background-color: rgb(153, 228, 238);
+    position: relative;
+    left: 0;
+    top: -163px;
+    border: 1px solid black;
+    border-bottom: 2px solid rgb(145, 144, 144);
+    border-left: 2px solid black;
+    padding: 10px;
+}
+
+div.yellow1 {
+    width: 180px;
+    height: 80px;
+    background-color: yellow;
+    text-align: right;
+    position: relative;
+    left: 226px;
+    top: -486px;
+    border: 1px solid black;
+    border-bottom: 2px solid rgb(145, 144, 144);
+    padding: 10px;
+}
+
+div.red1 {
+    width: 180px;
+    height: 80px;
+    background-color: red;
+    text-align: center;
+    position: relative;
+    left: 431px;
+    top: -589px;
+    border: 1px solid black;
+    border-bottom: 2px solid rgb(145, 144, 144);
+    padding:10px;
+}
+
+div.green1 {
+    width: 385px;
+    height: 194px;
+    background-color: green;
+    position: relative;
+    left: 226px;
+    top: -586px;
+    border: 1px solid black;
+    border-bottom: 2px solid rgb(145, 144, 144);
+    padding: 10px;
+}
+
